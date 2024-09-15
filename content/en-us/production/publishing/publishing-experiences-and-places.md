@@ -3,7 +3,7 @@ title: Experiences and Places
 description: Explains how to publish the places in your experience.
 ---
 
-**Experiences** on Roblox are made up of individual **places**, comparable to scenes in Unity or maps in Unreal Engine. Each place contains all components for that portion of the experience, including its specific environment, parts, meshes, scripts, and user interface.
+**Experiences** on Roblox are made up of individual **places**, comparable to scenes in Unity or maps in Unreal Engine. Each place contains all components for that portion of the experiience, including its specific environment, parts, meshes, scripts, and user interface.
 
 <figure>
 <img src="../../assets/publishing/experiences-places-assets/Experience-Hierarchy.png" width="800" />
